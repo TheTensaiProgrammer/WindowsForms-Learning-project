@@ -1,0 +1,7 @@
+﻿6
+papi vladivostok 21
+faishal jakarta 16
+mai paris 20
+nay jakarta 21
+udin vladivostok 17
+langit paris 19
